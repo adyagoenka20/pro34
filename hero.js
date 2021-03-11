@@ -1,0 +1,1 @@
+hero.createSprite=(30,60,10,50);

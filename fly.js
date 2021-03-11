@@ -1,0 +1,1 @@
+fly.createSprite=(15,25,20,50);
